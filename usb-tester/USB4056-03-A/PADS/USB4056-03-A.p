@@ -1,0 +1,45 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+USB4056-03-A USB405603A I CON 7 1 0 0 0
+TIMESTAMP 2024.04.14.23.09.46
+"Mouser Part Number" 640-USB4056-03-A
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/GCT/USB4056-03-A?qs=QNEnbhJQKvbZ7hZzgFEugA%3D%3D
+"Manufacturer_Name" GCT (GLOBAL CONNECTOR TECHNOLOGY)
+"Manufacturer_Part_Number" USB4056-03-A
+"Description" USB Connectors USB C 3.2 Rec, Horz, Hybrid PCB Top Mount, T+R
+"Datasheet Link" https://www.mouser.jp/datasheet/2/837/usb4056-2448808.pdf
+"Geometry.Height" 3.56mm
+GATE 1 28 0
+USB4056-03-A
+A1 0 U GND_1
+A2 0 U SSTXP1
+A3 0 U SSTXN1
+A4 0 U VBUS_1
+A5 0 U CC1
+A6 0 U DP1
+A7 0 U DN1
+A8 0 U SBU1
+A9 0 U VBUS_2
+A10 0 U SSRXN2
+A11 0 U SSRXP2
+A12 0 U GND_2
+B1 0 U GND_3
+B2 0 U SSTXP2
+B3 0 U SSTXN2
+B4 0 U VBUS_3
+B5 0 U CC2
+B6 0 U DP2
+B7 0 U DN2
+B8 0 U SBU2
+B9 0 U VBUS_4
+B10 0 U SSRXN1
+B11 0 U SSRXP1
+B12 0 U GND_4
+MH1 0 U MH1
+MH2 0 U MH2
+MH3 0 U MH3
+MH4 0 U MH4
+
+*END*
+*REMARK* SamacSys ECAD Model
+15177950/1368476/2.50/28/4/Connector

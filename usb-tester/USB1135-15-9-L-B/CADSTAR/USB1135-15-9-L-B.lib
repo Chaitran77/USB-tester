@@ -1,0 +1,17 @@
+.USB1135-15-9-L-B :1 ;USB Connectors USB A 3.0 Skt RA High Life 15u" T Hole W/Shell Stake Tray
+USB1135159LB
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=MH1 11=MH2
+*PLB 1="VBUS" 2="D-" 3="D+" 4="GND_1" 5="SSRX-" 6="SSRX+" 7="GND_2" 8="SSTX-" 9="SSTX+" 10="MH1" 11="MH2"
+*MXP 11
+*DFN USB1135-15-9-L-B
+~!Mouser Part Number (640-USB1135-15-9-L-B)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/USB1135-15-9-L-B?qs=KUoIvG%2F9IlaGvSU06AX2Fg%3D%3D)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (USB1135-15-9-L-B)
+~!Link Datasheet (https://gct.co/Files/Drawings/USB1135.pdf?v=73f322be-c8cb-44ef-b4e4-cf79b818febb)
+~!Height (7.2mm)
+~!3D_Model (USB1135-15-9-L-B)
+USB1135-15-9-L-B
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 

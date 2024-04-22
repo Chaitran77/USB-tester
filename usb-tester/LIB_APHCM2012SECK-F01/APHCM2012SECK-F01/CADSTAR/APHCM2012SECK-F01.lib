@@ -1,0 +1,16 @@
+.APHCM2012SECK-F01 :1 ;Standard LEDs - SMD Orange 601nm Water Clear
+LEDC2012X50N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN APHCM2012SECK-F01
+~!Mouser Part Number (604-APHCM2012SECK)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Kingbright/APHCM2012SECK-F01?qs=qqKal61G0Kyqp6URQ9ws7Q%3D%3D)
+~!Manufacturer_Name (Kingbright)
+~!Manufacturer_Part_Number (APHCM2012SECK-F01)
+~!Link Datasheet (http://www.kingbrightusa.com/images/catalog/SPEC/APHCM2012SECK-F01.pdf)
+~!Height (0.5mm)
+~!3D_Model (APHCM2012SECK-F01)
+APHCM2012SECK-F01
+1.1!U 2.1!U 

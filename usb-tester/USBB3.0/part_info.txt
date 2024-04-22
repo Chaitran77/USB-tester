@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=692221030100
+PartCategory=Connector
+PackageCategory=Other
+PinCount=9
+Version=1.1
+Released=2017-05-29 16:18:27
+Downloaded=2024-04-17 23:36:11
+3D=Y

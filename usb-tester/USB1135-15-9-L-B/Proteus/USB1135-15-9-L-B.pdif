@@ -1,0 +1,190 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "USB1135-15-9-L-B"
+   (description "USB Connectors USB A 3.0 Skt RA High Life 15u\" T Hole W/Shell Stake Tray")
+   (family "CON")
+   (package "USB1135159LB")
+   (attribute "Datasheet Link" "https://gct.co/Files/Drawings/USB1135.pdf?v=73f322be-c8cb-44ef-b4e4-cf79b818febb")
+   (attribute "Geometry.Height" "7.2mm")
+   (attribute "Mouser Part Number" "640-USB1135-15-9-L-B")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/GCT/USB1135-15-9-L-B?qs=KUoIvG%2F9IlaGvSU06AX2Fg%3D%3D")
+   (attribute "Manufacturer_Name" "GCT (GLOBAL CONNECTOR TECHNOLOGY)")
+   (attribute "Manufacturer_Part_Number" "USB1135-15-9-L-B")
+   (gate
+    (symbol "USB1135-15-9-L-B")
+    (pin "VBUS" 1 PS)
+    (pin "D-" 2 PS)
+    (pin "D+" 3 PS)
+    (pin "GND_1" 4 PS)
+    (pin "SSRX-" 5 PS)
+    (pin "SSRX+" 6 PS)
+    (pin "GND_2" 7 PS)
+    (pin "SSTX-" 8 PS)
+    (pin "SSTX+" 9 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+   )
+  )
+  (symbol "USB1135-15-9-L-B"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "USB1135159LB"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.07 2.72)
+      (pt 10.07 2.72)
+      (pt 10.07 -13.78)
+      (pt -3.07 -13.78)
+      (pt -3.07 2.72))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.795 3.72)
+      (pt 12.795 3.72)
+      (pt 12.795 -14.78)
+      (pt -5.795 -14.78)
+      (pt -5.795 3.72))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 10.07 0)
+      (pt 10.07 2.72)
+      (pt -3.07 2.72)
+      (pt -3.07 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 10.07 -4)
+      (pt 10.07 -13.78)
+      (pt -3.07 -13.8)
+      (pt -3.07 -4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.8 0)
+      (arc (pt -4.800 0.000) (pt -4.800 -0.050) (pt -4.700 0.050) (start 180.0) (sweep -180.0))
+      (pt -4.7 0)
+      (arc (pt -4.700 0.000) (pt -4.800 -0.050) (pt -4.700 0.050) (start 180.0) (sweep .0))
+      (pt -4.8 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 2.500 0.000) (padstack 0))
+   (leg 3 (pt 4.500 0.000) (padstack 0))
+   (leg 4 (pt 7.000 0.000) (padstack 0))
+   (leg 5 (pt 7.500 1.500) (padstack 0))
+   (leg 6 (pt 5.500 1.500) (padstack 0))
+   (leg 7 (pt 3.500 1.500) (padstack 0))
+   (leg 8 (pt 1.500 1.500) (padstack 0))
+   (leg 9 (pt -0.500 1.500) (padstack 0))
+   (leg MH1 (pt -3.070 -2.000) (padstack 10))
+   (leg MH2 (pt 10.070 -2.000) (padstack 11))
+   (padstack 0
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (round 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (round 1.200))
+   )
+   (padstack 1
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (square 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (square 1.200))
+   )
+   (padstack 10
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+   (padstack 11
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+   (model "USB1135-15-9-L-B.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

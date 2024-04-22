@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'APHCM2012SECK_F01'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kingbright", "APHCM2012SECK-F01" (!) = "", "LEDC2012X50N", "LEDs Chip", "604-APHCM2012SECK", "https://www.mouser.co.uk/ProductDetail/Kingbright/APHCM2012SECK-F01?qs=qqKal61G0Kyqp6URQ9ws7Q%3D%3D", "Standard LEDs - SMD Orange 601nm Water Clear", "http://www.kingbrightusa.com/images/catalog/SPEC/APHCM2012SECK-F01.pdf", "0.5 mm"
+END_PART
+
+END.

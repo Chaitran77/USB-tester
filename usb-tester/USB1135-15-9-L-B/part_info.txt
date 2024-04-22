@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=USB1135-15-9-L-B
+PartCategory=Connector
+PackageCategory=Other
+PinCount=11
+Version=2.1
+Released=2023-04-19 03:12:59
+Downloaded=2024-04-18 11:15:47
+3D=Y

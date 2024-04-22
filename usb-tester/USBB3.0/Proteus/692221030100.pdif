@@ -1,0 +1,184 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "692221030100"
+   (description "WR-COM USB 3.0 Connector B horizontal Wurth Elektronik Right Angle PCB Mount Mount Female Version 3.0 Type B USB Connector, 30 V ac, 0.25A")
+   (family "CON")
+   (package "WR-COM_USB_TYPE_B")
+   (attribute "Datasheet Link" "http://katalog.we-online.de/em/datasheet/692221030100.pdf")
+   (attribute "Mouser Part Number" "710-692221030100")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/692221030100?qs=e5m3IbTHPW%2F1T4qlB0JfxA%3D%3D")
+   (attribute "Manufacturer_Name" "Wurth Elektronik")
+   (attribute "Manufacturer_Part_Number" "692221030100")
+   (gate
+    (symbol "692221030100")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+    (pin "9" 9 PS)
+   )
+  )
+  (symbol "692221030100"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "WR-COM_USB_TYPE_B"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt -6 8)
+      (pt 6 8)
+      (pt 6 -10.3)
+      (pt -6 -10.3)
+      (pt -6 8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt -6 8)
+      (pt 6 8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 6 8)
+      (pt 6 2.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 6 -10.3)
+      (pt -6 -10.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt -6 -10.3)
+      (pt -6 -2.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt -6 8)
+      (pt -6 2.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 6 -10.3)
+      (pt 6 -2.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (circle
+      (pt 6.74266 4.819) (pt 6.97134 4.819)
+     )
+    )
+   )
+   (leg 1 (pt 1.25 4.71) (padstack 0))
+   (leg 2 (pt -1.25 4.71) (padstack 0))
+   (leg 3 (pt -1.25 2.71) (padstack 0))
+   (leg 4 (pt 1.25 2.71) (padstack 0))
+   (leg 5 (pt -4.25 6.71) (padstack 0))
+   (leg 6 (pt -2.5 6.71) (padstack 0))
+   (leg 7 (pt 0 6.71) (padstack 0))
+   (leg 8 (pt 2.5 6.71) (padstack 0))
+   (leg 9 (pt 4.25 6.71) (padstack 0))
+   (leg 10 (pt 6.02 0) (padstack 10))
+   (leg 11 (pt -6.02 0) (padstack 11))
+   (padstack 0
+    (hole 0.97)
+    (plated true)
+    (pad (layer TCOP) (round 1.5))
+    (pad (layer INNER) (round 1.5))
+    (pad (layer BCOP) (round 1.5))
+   )
+   (padstack 10
+    (hole 2.4)
+    (plated true)
+    (pad (layer TCOP) (round 3.6))
+    (pad (layer INNER) (round 3.6))
+    (pad (layer BCOP) (round 3.6))
+   )
+   (padstack 11
+    (hole 2.4)
+    (plated true)
+    (pad (layer TCOP) (round 3.6))
+    (pad (layer INNER) (round 3.6))
+    (pad (layer BCOP) (round 3.6))
+   )
+   (model "692221030100.stp"
+    (euler 90 0 -90)
+    (offset 5.519999980926514 -57.310001373291016 -30.8799991607666)
+   )
+  )
+ )
+)

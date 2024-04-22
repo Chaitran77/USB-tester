@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '692221030100'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Wurth Elektronik", "692221030100" (!) = "", "WR-COM_USB_TYPE_B", "Other", "710-692221030100", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/692221030100?qs=e5m3IbTHPW%2F1T4qlB0JfxA%3D%3D", "WR-COM USB 3.0 Connector B horizontal Wurth Elektronik Right Angle PCB Mount Mount Female Version 3.0 Type B USB Connector, 30 V ac, 0.25A", "http://katalog.we-online.de/em/datasheet/692221030100.pdf"
+END_PART
+
+END.

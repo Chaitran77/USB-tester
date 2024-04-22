@@ -1,0 +1,16 @@
+.USB3090-30-A :1 ;GLOBAL CONNECTOR TECHNOLOGY - USB3090-30-A - MICRO USB, 2.0 TYPE AB, RECEPTACLE, SMT
+USB309030A
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9"
+*MXP 9
+*DFN USB3090-30-A
+~!Mouser Part Number (640-USB3090-30-A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/USB3090-30-A?qs=KUoIvG%2F9IlYVKroKzb3i8Q%3D%3D)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (USB3090-30-A)
+~!Link Datasheet (-)
+~!Height (2.7mm)
+~!3D_Model (USB3090-30-A)
+USB3090-30-A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

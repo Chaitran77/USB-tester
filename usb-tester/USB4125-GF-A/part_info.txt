@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=USB4125-GF-A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=10
+Version=2.4
+Released=2022-11-11 03:58:37
+Downloaded=2024-04-18 18:38:06
+3D=Y

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USBC3.2")(type "KiCad")(uri "C:/Users/Kiran/Downloads/USB4056-03-A/KiCad")(options "")(descr ""))
+  (lib (name "USBB3")(type "KiCad")(uri "${KIPRJMOD}/USBB3.0/KiCad")(options "")(descr ""))
+  (lib (name "USBA3")(type "KiCad")(uri "${KIPRJMOD}/USB1135-15-9-L-B/KiCad")(options "")(descr ""))
+  (lib (name "USBAB2")(type "KiCad")(uri "${KIPRJMOD}/USB3090-30-A/KiCad")(options "")(descr ""))
+  (lib (name "USBBMini2")(type "KiCad")(uri "${KIPRJMOD}/USB2066/KiCad")(options "")(descr ""))
+  (lib (name "USBCPWR")(type "KiCad")(uri "${KIPRJMOD}/USB4125-GF-A/KiCad")(options "")(descr ""))
+)

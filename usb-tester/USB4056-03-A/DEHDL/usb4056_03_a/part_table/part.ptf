@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB4056_03_A'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GCT (GLOBAL CONNECTOR TECHNOLOGY)", "USB4056-03-A" (!) = "", "USB405603A", "Other", "640-USB4056-03-A", "https://www.mouser.co.uk/ProductDetail/GCT/USB4056-03-A?qs=QNEnbhJQKvbZ7hZzgFEugA%3D%3D", "USB Connectors USB C 3.2 Rec, Horz, Hybrid PCB Top Mount, T+R", "https://www.mouser.jp/datasheet/2/837/usb4056-2448808.pdf", "3.56 mm"
+END_PART
+
+END.

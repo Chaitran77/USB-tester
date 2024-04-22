@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=USB3090-30-A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=9
+Version=1.1
+Released=2019-05-21 14:43:45
+Downloaded=2024-04-18 12:05:46
+3D=Y

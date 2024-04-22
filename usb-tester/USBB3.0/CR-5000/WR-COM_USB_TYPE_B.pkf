@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "WR-COM_USB_TYPE_B"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "WR-COM_USB_TYPE_B")
+        (spec "default")
+    )
+)

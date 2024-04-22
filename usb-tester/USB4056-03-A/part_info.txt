@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=USB4056-03-A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=28
+Version=1.6
+Released=2021-10-13 16:11:03
+Downloaded=2024-04-14 23:09:46
+3D=Y

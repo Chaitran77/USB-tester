@@ -1,0 +1,16 @@
+.692221030100 :1 ;WR-COM USB 3.0 Connector B horizontal Wurth Elektronik Right Angle PCB Mount Mount Female Version 3.0 Type B USB Connector, 30 V ac, 0.25A
+WR-COM_USB_TYPE_B
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9"
+*MXP 11
+*DFN 692221030100
+~!Mouser Part Number (710-692221030100)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/692221030100?qs=e5m3IbTHPW%2F1T4qlB0JfxA%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (692221030100)
+~!Link Datasheet (http://katalog.we-online.de/em/datasheet/692221030100.pdf)
+~!Height (-)
+~!3D_Model (692221030100)
+"692221030100"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

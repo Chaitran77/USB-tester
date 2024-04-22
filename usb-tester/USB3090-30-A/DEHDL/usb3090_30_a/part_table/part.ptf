@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB3090_30_A'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GCT (GLOBAL CONNECTOR TECHNOLOGY)", "USB3090-30-A" (!) = "", "USB309030A", "Other", "640-USB3090-30-A", "https://www.mouser.co.uk/ProductDetail/GCT/USB3090-30-A?qs=KUoIvG%2F9IlYVKroKzb3i8Q%3D%3D", "GLOBAL CONNECTOR TECHNOLOGY - USB3090-30-A - MICRO USB, 2.0 TYPE AB, RECEPTACLE, SMT", "", "2.7 mm"
+END_PART
+
+END.

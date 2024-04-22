@@ -1,0 +1,26 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+USB3090-30-A USB309030A I CON 7 1 0 0 0
+TIMESTAMP 2024.04.18.12.05.46
+"Mouser Part Number" 640-USB3090-30-A
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/GCT/USB3090-30-A?qs=KUoIvG%2F9IlYVKroKzb3i8Q%3D%3D
+"Manufacturer_Name" GCT (GLOBAL CONNECTOR TECHNOLOGY)
+"Manufacturer_Part_Number" USB3090-30-A
+"Description" GLOBAL CONNECTOR TECHNOLOGY - USB3090-30-A - MICRO USB, 2.0 TYPE AB, RECEPTACLE, SMT
+"Datasheet Link" 
+"Geometry.Height" 2.7mm
+GATE 1 9 0
+USB3090-30-A
+1 0 U 1
+2 0 U 2
+3 0 U 3
+4 0 U 4
+5 0 U 5
+6 0 U 6
+7 0 U 7
+8 0 U 8
+9 0 U 9
+
+*END*
+*REMARK* SamacSys ECAD Model
+292289/1368476/2.50/9/4/Connector

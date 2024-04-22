@@ -1,0 +1,9 @@
+Manufacturer=Kingbright
+PartNumber=APHCM2012SECK-F01
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=2.1
+Released=2017-07-11 13:49:40
+Downloaded=2024-04-08 20:45:17
+3D=Y
